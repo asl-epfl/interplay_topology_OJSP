@@ -1,6 +1,8 @@
+## Release v1.0.0
+
 This code can be used to generate simulations similar to Figs. 2, 3, 4, 6, 7 and 8 and Table 1 in the following paper:
 
-Vincenzo Matta, Virginia Bordignon, Augusto Santos, Ali H. Sayed, "Interplay Between Topology and Social Learning Over Weak Graphs", IEEE Open Journal of Signal Processing, 2020.
+Vincenzo Matta, Virginia Bordignon, Augusto Santos, Ali H. Sayed, "Interplay Between Topology and Social Learning Over Weak Graphs", IEEE Open Journal of Signal Processing, 2020. [![DOI:10.1109/OJSP.2020.3006436](https://zenodo.org/badge/DOI/10.1007/978-3-319-76207-4_15.svg)](https://doi.org/10.1109/OJSP.2020.3006436)
 
 Figs. 2, 3 and 4 are generated executing file 'codefig234.py' with arguments 2, 3 or 4 respectively. For example, to generate Fig. 2, execute the following commands in the terminal:
 $ python codefig234.py 2
