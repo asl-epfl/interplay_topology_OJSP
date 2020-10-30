@@ -1,4 +1,5 @@
-## Release v1.0.0
+## Release v1.0.0 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4161514.svg)](https://doi.org/10.5281/zenodo.4161514)
+
 
 This code can be used to generate simulations similar to Figs. 2, 3, 4, 6, 7 and 8 and Table 1 in the following paper:
 
